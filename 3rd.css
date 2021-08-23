@@ -1,0 +1,49 @@
+.box{
+    
+    margin: auto;
+    margin-top: 50px;
+  width: 25%;
+  border: 3px solid green;
+  padding: 10px;
+  border-radius: 10px;
+  background-color:lightslategray;
+}
+.centre{
+    text-align: center;
+    color:saddlebrown;
+}
+.centre1{
+    color:saddlebrown;
+    padding-left: 13%;
+}
+#btn{
+    width: 50px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin: 2px;
+}
+input[type="button"]{
+    background-color: lightgreen;
+    color: black;
+    border: solid black 2px;
+    width: 10px;
+}
+input[type="button"]:hover {
+    background-color: yellow;
+  }
+input[type="text"]{
+    background-color:moccasin;
+    border-radius: 10px;
+    color: black;
+    border: solid black;
+    margin-bottom: 10px;
+    width: 218px;
+    height: 30px;
+}
+input[type="text"]:hover {
+    background-color:yellowgreen;
+  }
+.body{
+    background-image: url("https://en.ccunesco.ca/-/media/Images/Unesco/Blog/2020/03/International-Day-of-Math.jpg");
+}
